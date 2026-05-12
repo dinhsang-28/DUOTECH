@@ -1,0 +1,6 @@
+{
+  "name": "DriveFleet",
+  "description": "Hệ thống quản lý đội xe thông minh, tối ưu vận hành và theo dõi real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
